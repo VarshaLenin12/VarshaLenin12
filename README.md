@@ -16,13 +16,10 @@ I'm **Varsha L**, an aspiring ML Engineer passionate about Computer Vision (CV) 
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
 
-## 📈 GitHub Stats
-![Varsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarshaLenin12&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 - LinkedIn: [Varsha L](https://www.linkedin.com/in/varsha-l-ml)
@@ -38,18 +35,3 @@ Feel free to explore my repositories and connect with me. I'm always open to lea
 
 ---
 
-<!-- HTML Example -->
-<p align="center">
-  <img src="https://via.placeholder.com/150" alt="Profile Picture" style="border-radius:50%;">
-</p>
-
-<!-- CSS Example -->
-<style>
-  .header {
-    color: #ff6347;
-    font-size: 2em;
-    text-align: center;
-  }
-</style>
-
-<p class="header">Hello, I am Varsha!</p>
